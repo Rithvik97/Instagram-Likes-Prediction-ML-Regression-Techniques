@@ -1,1 +1,1 @@
-# Instagram-Likes-Prediction-ML-Regression-Techniques
+# Instagram Likes Prediction ML Regression Techniques
